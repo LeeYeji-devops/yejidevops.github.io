@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yejidevops.github.io/static/css/main.26ade764.css",
+    "main.js": "/yejidevops.github.io/static/js/main.52ccb772.js",
+    "static/js/488.4942db7d.chunk.js": "/yejidevops.github.io/static/js/488.4942db7d.chunk.js",
+    "static/media/STUNNINGOTF.otf": "/yejidevops.github.io/static/media/STUNNINGOTF.32674e6cb99c7bcb11d8.otf",
+    "index.html": "/yejidevops.github.io/index.html",
+    "main.26ade764.css.map": "/yejidevops.github.io/static/css/main.26ade764.css.map",
+    "main.52ccb772.js.map": "/yejidevops.github.io/static/js/main.52ccb772.js.map",
+    "488.4942db7d.chunk.js.map": "/yejidevops.github.io/static/js/488.4942db7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26ade764.css",
+    "static/js/main.52ccb772.js"
+  ]
+}
